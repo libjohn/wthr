@@ -1,0 +1,32 @@
+---
+title: "WTHR"
+author: "John Little"
+date: "`r Sys.Date()`"
+output: github_document
+---
+
+# README
+
+**What the Hell, R?**
+
+This is a list of all the crazy opaque symbols in R.  Like WTF do they mean...
+
+```
+.
+
+.[]
+
+~ .
+
+~
+
+!
+
+!!vars
+
+!!!vars
+
+::
+
+:::
+```
