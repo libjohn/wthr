@@ -1,6 +1,6 @@
-Attribution-ShareAlike 4.0 International
+Attribution 4.0 International
 
-CC-BY-SA-4.0
+CC-BY-4.0
 =======================================================================
 
 Creative Commons Corporation ("Creative Commons") is not a law firm and
