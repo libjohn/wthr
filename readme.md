@@ -1,7 +1,7 @@
 WTHR
 ================
 John Little
-2018-04-12
+2018-05-03
 
 README
 ======
@@ -23,6 +23,11 @@ This is a list of all the crazy opaque symbols in R. Like WTF do they mean...
     !!vars
 
     !!!vars
+
+Double and Triple Colon Operations
+----------------------------------
+
+[Explained](https://stat.ethz.ch/R-manual/R-devel/library/base/html/ns-dblcolon.html)
 
     ::
 
