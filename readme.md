@@ -10,19 +10,16 @@ README
 
 This is a list of all the crazy opaque symbols in R. Like WTF do they mean...
 
-    .
 
-    .[]
-
-    ~ .
-
-    ~
-
-    !
-
-    !!vars
-
-    !!!vars
+Symbol | Defined
+--- |---
+. | What in the list
+.[] | idk
+~ . | idk
+~ | what follows is a formula
+! | 
+!!vars | 
+!!!vars | 
 
 Double and Triple Colon Operations
 ----------------------------------
