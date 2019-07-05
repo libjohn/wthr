@@ -16,7 +16,7 @@ Symbol | Defined
 . | What in the list
 .[] | idk
 ~ . | idk
-~ | what follows is a formula
+~ | what follows is a function
 ! | 
 !!vars | 
 !!!vars | 
