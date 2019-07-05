@@ -13,7 +13,7 @@ This is a list of all the crazy opaque symbols in R. Like WTF do they mean...
 
 Symbol | Defined
 --- |---
-. | What in the list
+. | What is in the list
 .[] | idk
 ~ . | idk
 ~ | what follows is a function
